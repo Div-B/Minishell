@@ -20,7 +20,7 @@ GNU Readline (required)
 - built-ins: `cd`, `echo`, `pwd`, `export`, `unset`, `env`, `exit`
 - execution via `fork` + `execve`
 - correct file descriptor management
-Note: Does not handle multiple commands in one line, '&&', '||' 
+- Note: Does not handle multiple commands in one line, '&&', '||' 
 ---
 
 ## Build & Run
